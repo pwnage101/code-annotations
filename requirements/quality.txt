@@ -37,5 +37,5 @@ pytest==4.0.0
 requests==2.20.1          # via caniusepython3
 six==1.11.0
 snowballstemmer==1.2.1    # via pydocstyle
-urllib3==1.24.1           # via requests
+urllib3==1.24.2           # via requests
 wrapt==1.10.11            # via astroid
